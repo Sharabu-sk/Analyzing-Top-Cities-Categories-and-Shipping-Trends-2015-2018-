@@ -1,5 +1,5 @@
 # Analyzing-Top-Cities-Categories-and-Shipping-Trends-2015-2018-
-Project Title: Retail Sales &amp; Shipping Insights – Superstore Dashboard
+Project Title: Retail Sales &amp; Shipping Insights Superstore Dashboard
 Description:
 This Power BI dashboard analyzes sales performance and shipping behavior using the Superstore dataset. It helps uncover insights on top-performing cities, sales categories, customer segments, and shipping preferences over time. The dashboard is designed to support retail strategy by offering a clear view into sales trends and fulfillment volume.
 
