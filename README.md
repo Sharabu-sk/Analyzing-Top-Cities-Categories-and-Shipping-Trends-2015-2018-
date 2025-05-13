@@ -33,4 +33,7 @@ Business intelligence reporting
 
 Trend analysis & segmentation
 
+https://sites.google.com/d/1D5iUmG4of2RHH-lapZnrnOrBX7-JnPEK/p/1Hqxv5WrLN0QoV4taM2BMJgD8CqZDzBwi/edit
+
+
 ![Screenshot 2025-05-13 152617](https://github.com/user-attachments/assets/13deccff-3178-49f4-abe0-9ae96c8c2b9b)
